@@ -21,8 +21,6 @@ I'm a **Computer Science student at Università della Svizzera italiana (USI)**,
 
 My work ranges from explainable fraud detection and LLM security evaluation to full-stack educational tools. Alongside university, I have gained hands-on experience in **digital forensics, network traffic analysis, and web development**.
 
-<sub>Based between Lugano, Switzerland and Italy · BSc in Informatics, expected 2027</sub>
-
 <br/><br/>
 
 <h2><img src="assets/headings/projects.svg" width="100%" alt="02 / Projects" /></h2>
@@ -59,8 +57,6 @@ A stock-market discovery platform with a dataset of approximately 1,000 global c
 
 </td></tr>
 </table>
-
-<sub>Project details reflect my CV. Add verified repository links beside each title when published.</sub>
 
 <br/>
 
